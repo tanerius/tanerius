@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanerius
+- 👋 Hi, I’m @tanerius (or Taner in the real world)
 - 👀 I’m interested in computer games, AI and neural networks
 - 🌱 I’m currently learning anything I can
 - 💞️ I’m looking to collaborate on everything I dont know
